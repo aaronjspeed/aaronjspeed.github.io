@@ -14,7 +14,7 @@ SHA256: 2bb22b1c2b66a005873bc8927865fcae0e9258d1d89480d3f84b0a55ad7b315b
 
 Package: com.aaronjspeed.lotusextra
 Name: Lotus Extra
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Made some extra icons for Lotus Dark. Only a few, as they are apps I use.
 Maintainer: aaronjspeed <aaronjspeed@gmail.com>
